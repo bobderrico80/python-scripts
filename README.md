@@ -1,6 +1,7 @@
 # A collection of useful Python scripts
 ## Humanize Time
 A function that makes time intervals more human-readable
+
 *Usage*
 ```
 >>> humanize_time(173, 'hours')
